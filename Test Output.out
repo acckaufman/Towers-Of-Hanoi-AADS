@@ -1,0 +1,81 @@
+Towers of Hanoi
+
+How many rings do you need to move? 1
+
+Instructions
+--------------------------------
+Move a ring from peg 1 to peg 3.
+How many rings do you need to move? 2
+
+Instructions
+--------------------------------
+Move a ring from peg 1 to peg 2.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 2 to peg 3.
+How many rings do you need to move? 3
+
+Instructions
+--------------------------------
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 1 to peg 2.
+Move a ring from peg 3 to peg 2.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 2 to peg 1.
+Move a ring from peg 2 to peg 3.
+Move a ring from peg 1 to peg 3.
+How many rings do you need to move? 4
+
+Instructions
+--------------------------------
+Move a ring from peg 1 to peg 2.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 2 to peg 3.
+Move a ring from peg 1 to peg 2.
+Move a ring from peg 3 to peg 1.
+Move a ring from peg 3 to peg 2.
+Move a ring from peg 1 to peg 2.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 2 to peg 3.
+Move a ring from peg 2 to peg 1.
+Move a ring from peg 3 to peg 1.
+Move a ring from peg 2 to peg 3.
+Move a ring from peg 1 to peg 2.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 2 to peg 3.
+How many rings do you need to move? 5
+
+Instructions
+--------------------------------
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 1 to peg 2.
+Move a ring from peg 3 to peg 2.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 2 to peg 1.
+Move a ring from peg 2 to peg 3.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 1 to peg 2.
+Move a ring from peg 3 to peg 2.
+Move a ring from peg 3 to peg 1.
+Move a ring from peg 2 to peg 1.
+Move a ring from peg 3 to peg 2.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 1 to peg 2.
+Move a ring from peg 3 to peg 2.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 2 to peg 1.
+Move a ring from peg 2 to peg 3.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 2 to peg 1.
+Move a ring from peg 3 to peg 2.
+Move a ring from peg 3 to peg 1.
+Move a ring from peg 2 to peg 1.
+Move a ring from peg 2 to peg 3.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 1 to peg 2.
+Move a ring from peg 3 to peg 2.
+Move a ring from peg 1 to peg 3.
+Move a ring from peg 2 to peg 1.
+Move a ring from peg 2 to peg 3.
+Move a ring from peg 1 to peg 3.
+
+Thanks for using the program!
